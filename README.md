@@ -137,6 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Ronan Donohue - rdonohue@usc.edu
 
-Project Link: [https://github.com/yourusername/black-scholes-calculator](https://github.com/yourusername/black-scholes-calculator) 
+Project Link: [https://github.com/ronohue/black-scholes-calculator](https://github.com/ronohue/black-scholes-calculator) 
