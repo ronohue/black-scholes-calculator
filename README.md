@@ -1,6 +1,18 @@
 # Black-Scholes Option Pricing Calculator
 
-A modern, user-friendly desktop application for calculating option prices using the Black-Scholes model. Built with Python and CustomTkinter for a sleek, dark-themed interface.
+A collection of Black-Scholes option pricing calculators, from a simple command-line version to a modern GUI application. Built with Python and CustomTkinter for a sleek, dark-themed interface.
+
+## Versions
+
+### 1. **GUI Version** (`bs_web.py`)
+- Modern desktop application with intuitive GUI
+- Built with CustomTkinter for a professional look
+- Real-time calculations with instant feedback
+
+### 2. **Command-Line Version** (`BSF.py`)
+- Simple, bare-bones command-line interface
+- Perfect for learning the core Black-Scholes implementation
+- No external dependencies beyond scipy
 
 ## Features
 
@@ -35,12 +47,20 @@ A modern, user-friendly desktop application for calculating option prices using 
    ```
 
 3. **Run the application:**
+
+   **GUI Version:**
    ```bash
    python bs_web.py
    ```
 
+   **Command-Line Version:**
+   ```bash
+   python BSF.py
+   ```
+
 ## Usage
 
+### GUI Version (`bs_web.py`)
 1. Launch the application
 2. Enter the required parameters:
    - **Underlying Price (S)**: Current price of the underlying asset
@@ -50,6 +70,17 @@ A modern, user-friendly desktop application for calculating option prices using 
    - **Days to Expiry**: Number of days until option expiration
 3. Select the option type (Call or Put)
 4. Click "Calculate" to get the option price
+
+### Command-Line Version (`BSF.py`)
+1. Run the script
+2. Follow the interactive prompts to enter:
+   - Underlying security's price
+   - Option's strike price
+   - Option type (Call or Put)
+   - Risk-free rate (as a percentage)
+   - Annualized volatility (as a percentage)
+   - Days until expiration
+3. The calculated option price will be displayed
 
 ## Input Parameters
 
