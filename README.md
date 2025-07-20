@@ -131,6 +131,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Mathematical implementation based on the Black-Scholes model
 - Inspired by the need for a user-friendly option pricing tool
 
+## Development Notes
+
+**Transparency Statement:** This project was developed with assistance from AI tools. The core Black-Scholes calculations and GUI implementation were written by the author, while project documentation (README, .gitignore, LICENSE) was created with AI assistance to ensure professional standards and completeness.
+
 ## Contact
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
