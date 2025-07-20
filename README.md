@@ -8,6 +8,7 @@ A collection of Black-Scholes option pricing calculators, from a simple command-
 - Modern desktop application with intuitive GUI
 - Built with CustomTkinter for a professional look
 - Real-time calculations with instant feedback
+- This version will receive additional features and improvements as time goes on
 
 ### 2. **Command-Line Version** (`BSF.py`)
 - The first Black-Scholes calculator I made
