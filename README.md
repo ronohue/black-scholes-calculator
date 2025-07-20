@@ -1,6 +1,6 @@
 # Black-Scholes Option Pricing Calculator
 
-A collection of Black-Scholes option pricing calculators, from a simple command-line version to a modern GUI application. Built with Python and CustomTkinter for a sleek, dark-themed interface.
+A collection of Black-Scholes option pricing calculators, from a simple command-line version to a more modern GUI application. Built with Python and CustomTkinter.
 
 ## Versions
 
@@ -10,21 +10,17 @@ A collection of Black-Scholes option pricing calculators, from a simple command-
 - Real-time calculations with instant feedback
 
 ### 2. **Command-Line Version** (`BSF.py`)
-- Simple, bare-bones command-line interface
-- Perfect for learning the core Black-Scholes implementation
+- The first Black-Scholes calculator I made
+- Simple, bare-bones interactive command-line interface
 - No external dependencies beyond scipy
 
 ## Features
 
-- **Intuitive GUI**: Clean, modern interface with dark theme
+- **Intuitive GUI**: Clean interface with dark theme
 - **Real-time Calculations**: Instant option price calculations
 - **Support for Both Options**: Calculate prices for both call and put options
-- **Professional Styling**: Centered window with rounded corners and professional fonts
-- **Error Handling**: Robust input validation and error messages
+- **Error Handling**: Input validation and error messages in both versions
 
-## Screenshots
-
-*[Add screenshots of your application here]*
 
 ## Installation
 
